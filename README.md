@@ -80,6 +80,8 @@
 </div>
   
 ---
-<div align="center">
-  <img src="https://media.giphy.com/media/3o6Zt8J9qB0O5z1z4I/giphy.gif" alt="Grid Snake" width="300"/>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
