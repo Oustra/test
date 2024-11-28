@@ -1,5 +1,4 @@
 
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+%F0%9F%91%8B;I'm+a+Data+Science+Student+%F0%9F%93%8A;Passionate+about+Coding+%26+Analytics+%F0%9F%92%BB" alt="Typing SVG" />
 </div>
@@ -81,6 +80,7 @@
 </div>
   
 ---
+
 <div aligne="center">
 <picture>
   <source
@@ -89,11 +89,12 @@
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/oustra/oustra/output/github-contribution-grid-snake.svg"
   />
   <img
     alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/oustra/oustra/output/github-contribution-grid-snake.svg"
   />
 </picture>
 </div>
+
