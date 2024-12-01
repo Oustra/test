@@ -80,5 +80,5 @@
 </div>
   
 ---
-
+![snake gif](https://github.com/Oustra/Oustra/blob/output/github-contribution-grid-snake.gif)
 
